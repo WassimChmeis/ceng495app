@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password">password</string>
+    <string name="id">ID</string>
+    <string name="login">LOGIN</string>
+    <string name="title">login:</string>
+    <string name="new_trainee_signup_here">new trainee? <u><b>signup here</b></u></string>
+    <string name="continue_as_admin_click_here">Continue as admin. <u><b><i>click here</i></b></u></string>
+    <string name="height_in_meter">Height in meter</string>
+    <string name="weight_in_kg">Weight in KG</string>
+    <string name="age">age</string>
+    <string name="password1">password</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account_login">Already have an account? <u><b><i>Login</i></b></u></string>
+    <string name="register">Register</string>
+    <string-array name="typeofworkout">
+        <item>Type of Workout</item>
+        <item>BodyBuilding</item>
+        <item>PowerLifting</item>
+        <item>CrossFit</item>
+    </string-array>
+    <string-array name="gender">
+        <item>gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
